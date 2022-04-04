@@ -1,15 +1,16 @@
 # Big-Ideas-Final-Project
 
-## Overview
+## Team name
 
-This is our final project for the University of Pittsburgh's CMPINF 0010
 
-## Our Task
 
-We were tasked to make a data-driven argument for the best neighborhood in Pittsburgh using
-data from the Western PA Regional Data Center.
+## Team members and email addresses
 
-## Data
+* Camryn Dorney (csd49@pitt.edu)
 
-We have chosen to base which neighborhood in Pittsburgh was the best in terms
-of how "bike friendly" they are, as Pittsburgh claims to be a bike friendly area. 
+## Data Set Descriptions and links
+
+* On-road Bicycle Pavement Markings (https://data.wprdc.org/dataset/on-road-bicycle-pavement-markings) According to this dataset's description, this is a "mile by mile breakdown of the on-street bicycle pavement markings installed within the City of Pittsburgh. These include bike lanes, shared lane markings (sharrows), and protected bike lanes."
+
+
+## Repository Overview
