@@ -10,7 +10,7 @@
 
 ## Data Set Descriptions and links
 
-* Pittsburgh Police Firearm Seizures (https://data.wprdc.org/dataset/pbp-fire-arm-seizures): According to the description under the dataset,
-"This data includes counts of firearms by type seized by the Pittsburgh Bureau of Police. Each row describes a seizure incident involving one or more firearms."
+* Police Incident Blotter *(Archive)* (https://data.wprdc.org/dataset/uniform-crime-reporting-data): This dataset contains crime incident data
+reported and tracked by the Pittsburgh police from 2005 to 2015.
 
 ## Repository Overview
