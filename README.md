@@ -12,9 +12,9 @@ Group 48
 
 ## Data Set Descriptions and links
 
-* Police Incident Blotter *(Archive)* (https://data.wprdc.org/dataset/uniform-crime-reporting-data): This dataset contains crime incident data reported and tracked by the Pittsburgh police from 2005 to 2015.
-* Pittsburgh Police Arrest Data (https://data.wprdc.org/dataset/arrest-data): This dataset contains information on people taken into custody by City of Pittsburgh police officers.
-* Non-Traffic Citations (https://data.wprdc.org/dataset/non-traffic-citations): This dataset contains Non-traffic citations (NTCs, also known as "summary offenses") document low-level criminal offenses where a law enforcement officer or other authorized official issued a citation in lieu of arrest.
+* Police Incident Blotter *(Archive)* (https://data.wprdc.org/dataset/uniform-crime-reporting-data): This dataset contains crime incident data reported and tracked by the Pittsburgh police from 2005 to 2015. - Camryn
+* Pittsburgh Police Arrest Data (https://data.wprdc.org/dataset/arrest-data): This dataset contains information on people taken into custody by City of Pittsburgh police officers. - Zacharie
+* Non-Traffic Citations (https://data.wprdc.org/dataset/non-traffic-citations): This dataset contains Non-traffic citations (NTCs, also known as "summary offenses") document low-level criminal offenses where a law enforcement officer or other authorized official issued a citation in lieu of arrest. - Sitara 
 
 ## Repository Overview
 
